@@ -1,6 +1,6 @@
 const opcion = {
 	strings: ['Feliz Navidad Putos Amos'],
-	typeSpeed: 200,
+	typeSpeed: 75,
 	backSpeed: 100,
 	cursorChar: '_',
 	loop: true,
