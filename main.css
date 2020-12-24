@@ -1,0 +1,23 @@
+.contenedor {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://i.pinimg.com/originals/fa/cb/f5/facbf5bd80e5158196e5df4138faf8df.png);
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    background-position: center;
+}
+
+.texto-centrado{
+	font-size: 45px;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+.cap {
+    width: 19%;
+    text-align: center;
+    line-height: 1.5;
+    height: 164px;
+}
