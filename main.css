@@ -21,6 +21,9 @@
     line-height: 1.5;
     height: 164px;
 }
+span.typed-cursor {
+    color: white;
+}
 
 @media (max-width: 575.98px) { 
 	.cap {
