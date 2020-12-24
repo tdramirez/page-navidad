@@ -21,3 +21,12 @@
     line-height: 1.5;
     height: 164px;
 }
+
+@media (max-width: 575.98px) { 
+	.cap {
+	    width: 86%;
+	    text-align: center;
+	    line-height: 1.5;
+	    height: 151px;
+	}
+}
